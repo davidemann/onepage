@@ -1,0 +1,9 @@
+/install.php
+/lib/Zend/
+/lib/Varien/
+/LICENSE*
+/php.ini.sample
+/pkginfo/
+/RELEASE_NOTES.txt
+/var/
+.idea
